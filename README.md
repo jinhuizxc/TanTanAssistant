@@ -19,6 +19,8 @@
 
 扫码下载（建议使用带有扫码功能的浏览器，微信扫描不允许下载）：
 
+![image](https://github.com/chaychan/TanTanAssistant/blob/master/qr_code_download.png?raw=true)
+
 
 ### 免费试用
 
